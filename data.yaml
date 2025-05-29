@@ -1,5 +1,5 @@
-train: /content/Auto_ano/dataset_split/images/train
-val: /content/Auto_ano/dataset_split/images/valid
+train: ../Auto_ano/data_split/images/train  # 学習用画像フォルダ
+val: ../Auto_ano/data_split/images/val      # 検証用画像フォルダ
 
 nc: 1  # クラス数（必要に応じて変更）
 names: ['robomaster']  # クラス名（必要に応じて変更）
