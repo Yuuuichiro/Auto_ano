@@ -1,5 +1,5 @@
-train: ../Auto_ano/dataset_split/images/train
-val: ../Auto_ano/dataset_split/images/val
+train: /content/Auto_ano/dataset_split/images/train
+val: /content/Auto_ano/dataset_split/images/valid
 
-nc: 1
-names: ["robomaster"]
+nc: 1  # クラス数（必要に応じて変更）
+names: ['robomaster']  # クラス名（必要に応じて変更）
