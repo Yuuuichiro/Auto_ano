@@ -1,0 +1,5 @@
+train: ../Auto_ano/dataset_split/images/train
+val: ../Auto_ano/dataset_split/images/val
+
+nc: 1
+names: ["robomaster"]
